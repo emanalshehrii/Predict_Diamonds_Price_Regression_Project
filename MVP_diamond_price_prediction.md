@@ -8,12 +8,12 @@ This project aimed to use a regression linear model on a diamonds dataset to pre
 - The data from https://www.brilliantearth.com/loose-diamonds/search/ 
 - 86627 rows and 10 columns
 
-![price_carat.png](attachment:price_carat.png)
+![price_carat.png](attachment:carat_price.jpeg)
 
 we observe the carat is highly correlated with price 
 we can see from this plot if carat increased also the price increased.
 
-![clarity%20vs%20price.png](attachment:clarity%20vs%20price.png)
+![clarity%20vs%20price.png](attachment:clarity_price.jpeg)
 
 we observe that FL which is type of clarity is more expensive than other types
 
