@@ -32,7 +32,7 @@ After we cleaned the data, the rows became about 67,000 and 7 features.
 
 ### Dataset Columns :
 
-- price : price in US dollars ( \\$450 - \\$145,210 )
+- price : price in US dollars ( \\ $450 - \\ $145,210 )
 
 - carat : weight of the diamond ( 0.25 - 10.54 )
 
