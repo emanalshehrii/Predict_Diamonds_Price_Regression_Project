@@ -21,7 +21,7 @@ Target: Diamonds price
 
 Features:
 
--id: unique number of the products
+- id: unique number of the products
 - Shape: outline shape of the diamond
 - Color: Diamond color 
 - Clarity:is a measure of the purity and rarity of the stone 
