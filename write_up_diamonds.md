@@ -28,7 +28,7 @@ The dataset used in this project was obtained by scraping data from  brilliant e
 
 The dataset contains the prices and other attributes of almost 119,000 rows and 11 features. It's a great dataset for machine learning and working with data analysis and visualization.
 
-After we cleaned the data, the rows became about 67,000 and 7 features.
+After we cleaned the data, the rows became about 65,000 and 7 features.
 
 ### Dataset Columns :
 
@@ -67,7 +67,7 @@ On this dataset we used different methods of regression :
 
 - ElasticNet Regression
 
-The best accuracy between these algorithms is 92.29 % with Polynominal Regression with degree 3.
+The best accuracy between these algorithms is 98.07 % with Polynominal Regression degree 5.
 
 
 
