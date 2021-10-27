@@ -1,5 +1,5 @@
 # Diamonds Price Prediction Using Regression Model
-#### Below are the links to different sections of project 1.
+#### Below are the links to different sections of project 2.
 
 - Project proposal [ click here ](https://github.com/emanalshehrii/LinearRegression_diamonds__price_prediction/blob/main/Proposal_diamonds_price_prediction.md)
 - MVP of diamonds prediction [click here](https://github.com/emanalshehrii/diamonds_price_prediction_using_LinearRegression/blob/main/MVP_Diamonds%20(2).md)
