@@ -2,7 +2,7 @@
 
 ### Overview
 
-Diamonds belonge to a unique class of product, In this project, we are going to work on a dataset that consists of information about the diamond's price, and other aspects such as Clarity, etc. When we work on this data, we need to see which column is important for us and which is not. The main aim of the project is to make a model which can give us a good prediction of the price of the diamond based on other variables. We are going to use Linear Regression for this dataset and see if it gives us a good accuracy or not.
+Diamonds belong to a unique class of products, In this project, we are going to work on a dataset that consists of information about the diamond's price, and other aspects such as Clarity, Carat, etc. When we work on this data, we need to see which columns are important for us and which is not. The main goal of this project is predicting the prices of diamonds based on many features using a regression model.
 
 ### Goals
 
